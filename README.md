@@ -1,6 +1,16 @@
 # X200 GO Dataset Reverse Engineering  
 **Hack the Dataset from X200 GO – 3D Modelling Sensor**
 
+---
+
+## Links
+
+- **Project Report:**  https://github.com/huzaiifaaaaa/x200-go/blob/main/X200GO%20Report.pdf
+
+- **Video Link:**  https://unioulu-my.sharepoint.com/:f:/g/personal/mhuzaifa25_student_oulu_fi/IgAiwr7qlu1_TYAMciA4bFHhAbHi4Ew-g6Pzi8QNEIj5Aew?e=vOQH60
+
+---
+
 ## Overview
 This repository contains the code, experiments, and documentation developed as part of a research-oriented software project focused on **reverse engineering undocumented binary data formats** produced by the **Stonex X200 GO SLAM 3D mapping sensor**.
 
